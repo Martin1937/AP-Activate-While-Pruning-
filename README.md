@@ -1,4 +1,4 @@
-# AP-Activate-While-Pruning-
+# AP: Activate-While-Pruning
 Code for Paper -- AP: Selective Activation for De-sparsifying Pruned Networks
 
 (1) Dependencies Required:
